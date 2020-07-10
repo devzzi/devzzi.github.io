@@ -374,7 +374,7 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 1px #EAEAEA solid;
+  border-top: 1px #FFCCCC solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#F5F5F5" }};
@@ -432,7 +432,7 @@ footer .footer-custom-content {
 
 .post-preview {
   padding: 1.25rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #FFCCCC;
 }
 
 @media (min-width: 768px) {
@@ -630,7 +630,7 @@ footer .footer-custom-content {
   -moz-box-shadow: 1px 1px 3px #000;
 }
 .intro-header.big-img .post-heading .post-meta {
-  color: #EEE;
+  color: #;EEE
 }
 .intro-header.big-img .img-desc {
   background: rgba(30, 30, 30, 0.6);
